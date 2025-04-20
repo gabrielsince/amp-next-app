@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json());
 
 // 请替换为你的高德地图 API 密钥
-const AMAP_MAPS_API_KEY = "1282992b6d952d45de8d05ac5af4353c"; // 请替换为实际的 API 密钥
+const AMAP_MAPS_API_KEY = "ampa-key here"; // 请替换为实际的 API 密钥
 
 export const tools = {
   "test": {
