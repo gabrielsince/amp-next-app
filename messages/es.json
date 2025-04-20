@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Consulta de Mapa MCP",
+    "toolSelection": "Seleccionar Herramienta",
+    "toolDescription": "Descripción de la Herramienta",
+    "outputExample": "Ejemplo de Salida",
+    "query": "Consulta",
+    "loading": "Cargando...",
+    "error": "Error",
+    "example": "Ejemplo",
+    "fillExampleData": "Rellenar Datos de Ejemplo",
+    "queryResult": "Resultado de la Consulta"
+  }
+}

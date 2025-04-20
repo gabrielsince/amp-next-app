@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "MCP 地图查询",
+    "toolSelection": "选择工具",
+    "toolDescription": "工具说明",
+    "outputExample": "输出样例",
+    "query": "查询",
+    "loading": "查询中...",
+    "error": "错误",
+    "example": "示例",
+    "fillExampleData": "填充示例数据",
+    "queryResult": "查询结果"
+  }
+}

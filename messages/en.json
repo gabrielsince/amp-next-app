@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "MCP Map Query",
+    "toolSelection": "Select Tool",
+    "toolDescription": "Tool Description",
+    "outputExample": "Output Example",
+    "query": "Query",
+    "loading": "Loading...",
+    "error": "Error",
+    "example": "Example",
+    "fillExampleData": "Fill Example Data",
+    "queryResult": "Query Result"
+  }
+}
